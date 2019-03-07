@@ -6,7 +6,7 @@
 
 - [World Wide Web - WWW](konular/httplife.md)
 
-- [İstemci Nedir ?](konular/httplife.md)
+- [İstemci Nedir ?](konular/istemci.md)
 
 - [HTML Nedir ?](konular/httplife.md)
 
